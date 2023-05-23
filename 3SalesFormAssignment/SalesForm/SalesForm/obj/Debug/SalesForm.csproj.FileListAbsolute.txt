@@ -1,0 +1,9 @@
+D:\Univesity Work\7. Seventh Semester\Visual Programming\Assignments\3SalesFormAssignment\SalesForm\SalesForm\bin\Debug\SalesForm.exe.config
+D:\Univesity Work\7. Seventh Semester\Visual Programming\Assignments\3SalesFormAssignment\SalesForm\SalesForm\bin\Debug\SalesForm.exe
+D:\Univesity Work\7. Seventh Semester\Visual Programming\Assignments\3SalesFormAssignment\SalesForm\SalesForm\bin\Debug\SalesForm.pdb
+D:\Univesity Work\7. Seventh Semester\Visual Programming\Assignments\3SalesFormAssignment\SalesForm\SalesForm\obj\Debug\SalesForm.csprojResolveAssemblyReference.cache
+D:\Univesity Work\7. Seventh Semester\Visual Programming\Assignments\3SalesFormAssignment\SalesForm\SalesForm\obj\Debug\SalesForm.CodeLabSalesForm.resources
+D:\Univesity Work\7. Seventh Semester\Visual Programming\Assignments\3SalesFormAssignment\SalesForm\SalesForm\obj\Debug\SalesForm.Properties.Resources.resources
+D:\Univesity Work\7. Seventh Semester\Visual Programming\Assignments\3SalesFormAssignment\SalesForm\SalesForm\obj\Debug\SalesForm.csproj.GenerateResource.Cache
+D:\Univesity Work\7. Seventh Semester\Visual Programming\Assignments\3SalesFormAssignment\SalesForm\SalesForm\obj\Debug\SalesForm.exe
+D:\Univesity Work\7. Seventh Semester\Visual Programming\Assignments\3SalesFormAssignment\SalesForm\SalesForm\obj\Debug\SalesForm.pdb
