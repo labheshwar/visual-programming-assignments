@@ -1,0 +1,10 @@
+D:\Univesity Work\7. Seventh Semester\Visual Programming\Assignments\AssignmentNumber1\AssignmentNumber1\bin\Debug\AssignmentNumber1.exe.config
+D:\Univesity Work\7. Seventh Semester\Visual Programming\Assignments\AssignmentNumber1\AssignmentNumber1\bin\Debug\AssignmentNumber1.exe
+D:\Univesity Work\7. Seventh Semester\Visual Programming\Assignments\AssignmentNumber1\AssignmentNumber1\bin\Debug\AssignmentNumber1.pdb
+D:\Univesity Work\7. Seventh Semester\Visual Programming\Assignments\AssignmentNumber1\AssignmentNumber1\bin\Debug\AssignmentNumber1.xml
+D:\Univesity Work\7. Seventh Semester\Visual Programming\Assignments\AssignmentNumber1\AssignmentNumber1\obj\Debug\AssignmentNumber1.Form1.resources
+D:\Univesity Work\7. Seventh Semester\Visual Programming\Assignments\AssignmentNumber1\AssignmentNumber1\obj\Debug\AssignmentNumber1.Resources.resources
+D:\Univesity Work\7. Seventh Semester\Visual Programming\Assignments\AssignmentNumber1\AssignmentNumber1\obj\Debug\AssignmentNumber1.vbproj.GenerateResource.Cache
+D:\Univesity Work\7. Seventh Semester\Visual Programming\Assignments\AssignmentNumber1\AssignmentNumber1\obj\Debug\AssignmentNumber1.exe
+D:\Univesity Work\7. Seventh Semester\Visual Programming\Assignments\AssignmentNumber1\AssignmentNumber1\obj\Debug\AssignmentNumber1.xml
+D:\Univesity Work\7. Seventh Semester\Visual Programming\Assignments\AssignmentNumber1\AssignmentNumber1\obj\Debug\AssignmentNumber1.pdb
